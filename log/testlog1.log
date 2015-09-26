@@ -1,0 +1,52 @@
+2015-09-25 22:16:39,652 [main] INFO Googlelaunch - Browser Opened
+2015-09-25 22:16:39,695 [main] INFO Googlelaunch - Implicit wait given
+2015-09-25 22:16:42,471 [main] INFO Googlelaunch - Url opened
+2015-09-25 22:26:30,274 [main] INFO Googlelaunch - Browser Opened
+2015-09-25 22:26:30,300 [main] INFO Googlelaunch - Implicit wait given
+2015-09-25 22:26:33,408 [main] INFO Googlelaunch - Url opened
+2015-09-25 22:44:58,358 [main] INFO Googlelaunch - Browser Opened
+2015-09-25 22:44:58,384 [main] INFO Googlelaunch - Implicit wait given
+2015-09-25 22:45:00,710 [main] INFO Googlelaunch - Url opened
+2015-09-26 20:42:40,928 [main] INFO simple.Log.NewLog - Browser Opened
+2015-09-26 20:42:43,003 [main] INFO simple.Log.NewLog - Implicit wait given
+2015-09-26 20:42:47,152 [main] INFO simple.Log.NewLog - Url opened
+2015-09-26 20:49:38,695 [main] INFO simple.Log.NewLog - Browser Opened
+2015-09-26 20:49:38,821 [main] INFO simple.Log.NewLog - Implicit wait given
+2015-09-26 20:49:44,685 [main] INFO simple.Log.NewLog - Url opened
+2015-09-26 20:57:40,810 [main] INFO Default test - Browser Opened
+2015-09-26 20:57:40,973 [main] INFO Default test - Implicit wait given
+2015-09-26 20:57:45,805 [main] INFO Default test - Url opened
+2015-09-26 21:02:47,955 [main] INFO org.testng.TestRunner - Browser Opened
+2015-09-26 21:02:47,987 [main] INFO org.testng.TestRunner - Implicit wait given
+2015-09-26 21:02:51,319 [main] INFO org.testng.TestRunner - Url opened
+2015-09-26 21:12:53,930 [main] INFO org.testng.TestRunner - Browser Opened
+2015-09-26 21:12:53,967 [main] INFO org.testng.TestRunner - Implicit wait given
+2015-09-26 21:12:56,597 [main] INFO org.testng.TestRunner - Url opened
+2015-09-26 22:04:06,033 [main] INFO Googlelaunch - Browser Opened
+2015-09-26 22:04:06,074 [main] INFO Googlelaunch - Implicit wait given
+2015-09-26 22:04:09,206 [main] INFO Googlelaunch - Url opened
+2015-09-26 22:06:26,297 [main] INFO Googlelaunch - Browser Opened
+2015-09-26 22:06:26,408 [main] INFO Googlelaunch - Implicit wait given
+2015-09-26 22:06:28,870 [main] INFO Googlelaunch - Url opened
+2015-09-26 22:06:45,398 [main] INFO Yahoolaunch - Browser Opened
+2015-09-26 22:06:45,458 [main] INFO Yahoolaunch - Implicit wait given
+2015-09-26 22:14:59,979 [main] INFO Googlelaunch - Browser Opened
+2015-09-26 22:15:00,010 [main] INFO Googlelaunch - Implicit wait given
+2015-09-26 22:15:02,911 [main] INFO Googlelaunch - Url opened
+2015-09-26 22:15:13,395 [main] INFO Yahoolaunch - Browser Opened
+2015-09-26 22:15:13,426 [main] INFO Yahoolaunch - Implicit wait given
+2015-09-26 22:16:45,348 [main] INFO Googlelaunch - Browser Opened
+2015-09-26 22:16:45,463 [main] INFO Googlelaunch - Implicit wait given
+2015-09-26 22:16:48,733 [main] INFO Googlelaunch - Url opened
+2015-09-26 22:17:51,687 [main] INFO Googlelaunch - Browser Opened
+2015-09-26 22:17:51,818 [main] INFO Googlelaunch - Implicit wait given
+2015-09-26 22:17:54,482 [main] INFO Googlelaunch - Url opened
+2015-09-26 22:18:05,298 [main] INFO Yahoolaunch - Browser Opened
+2015-09-26 22:18:05,698 [main] INFO Yahoolaunch - Implicit wait given
+2015-09-26 22:18:17,641 [main] INFO Yahoolaunch - Url opened
+2015-09-26 22:19:33,018 [main] INFO Googlelaunch - Browser Opened
+2015-09-26 22:19:33,055 [main] INFO Googlelaunch - Implicit wait given
+2015-09-26 22:19:36,953 [main] INFO Googlelaunch - Url opened
+2015-09-26 22:19:49,139 [main] INFO Yahoolaunch - Browser Opened
+2015-09-26 22:19:49,659 [main] INFO Yahoolaunch - Implicit wait given
+2015-09-26 22:20:00,125 [main] INFO Yahoolaunch - Url opened
